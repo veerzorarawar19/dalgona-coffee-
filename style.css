@@ -1,0 +1,16 @@
+body{
+    font-family: 'Mulish', sans-serif;
+    background-color: peachpuff;
+}
+
+h2{
+    color: brown;
+    text-decoration: underline;
+}
+
+button{
+    font-family: 'Mulish', sans-serif;
+    background-color: brown;
+    color: white;
+    font-size: 120%;
+}
